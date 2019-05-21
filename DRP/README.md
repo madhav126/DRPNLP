@@ -1,5 +1,5 @@
-# Disaster Response Pipeline Project
-This project is to classify disaster response messages through machine learning. 
+# Disaster Response Pipeline 
+In this project, the Natural Language Processing will be used to process the data from disaster responses. 
 
 ## Content
 - Data
