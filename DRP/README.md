@@ -12,7 +12,7 @@ The project is divided in 3 parts:
 2.	train_classifier.py : Machine Learning Pipeline In a Python script (Load data from SQLite database, Splits data into training and test sets, Builds a text processing and machine learning pipeline, Trains and tunes a model using GridSearchCV, Outputs results on the test set, and Exports the final model as a pickle file).
 3.	Run.py : Flask Web App (display visualization from the datasets, the app accept messages from users and returns classification results for 36 categories of disaster events).
 
-### Instructions:
+# Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
